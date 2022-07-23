@@ -1,0 +1,15 @@
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\bin\Debug\net6.0\random-number-game.exe
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\bin\Debug\net6.0\random-number-game.deps.json
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\bin\Debug\net6.0\random-number-game.runtimeconfig.json
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\bin\Debug\net6.0\random-number-game.dll
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\bin\Debug\net6.0\random-number-game.pdb
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.csproj.AssemblyReference.cache
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.AssemblyInfoInputs.cache
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.AssemblyInfo.cs
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.csproj.CoreCompileInputs.cache
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.dll
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\refint\random-number-game.dll
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.pdb
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\random-number-game.genruntimeconfig.cache
+C:\Users\blecl\OneDrive\Desktop\Code\repos\Projects\csharp\dice\random-number-game\random-number-game\random-number-game\obj\Debug\net6.0\ref\random-number-game.dll
